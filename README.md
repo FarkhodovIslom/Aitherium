@@ -3,7 +3,7 @@
 **Aitherium** — AI'larning metagigahubi. LLM, Reasoning AI, Code agent, Image generator va boshqa beast AI modellarni **bitta platformada** jamlaganimiz.  
 Minimalizm, performance, memsiz dizayn. Faqat real ish, real AI, real natija.
 
-![AI Humanoid Automation](https://media.tenor.com/8b6xV5Y2c0gAAAAC/ai-humanoid-automation.gif)
+![AI Humanoid Automation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGMyZmZneTN0N2huMXI3OGhoaTNicDNpMmJocWJsY3o2eXh2emVnaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif)
 
 ---
 
